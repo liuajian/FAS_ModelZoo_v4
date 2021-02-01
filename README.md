@@ -37,12 +37,12 @@
 ## Citation
   ```Shell
 Please cite the following papers in your publications if it helps your research:
-    @article{zheng2016discriminatively,
-      title={A Discriminatively Learned CNN Embedding for Person Re-identification},
-      author={Zheng, Zhedong and Zheng, Liang and Yang, Yi},
-      journal={TOMM},
-      year={2017}
-    }
+@inproceedings{Liu2018Learning,
+  title={Learning deep models for face anti-spoofing: Binary or auxiliary supervision},
+  author={Liu, Yaojie and Jourabloo, Amin and Liu, Xiaoming},
+  booktitle={CVPR},
+  year={2018}
+}
   ```
 ## Questions
  
