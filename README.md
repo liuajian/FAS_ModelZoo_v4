@@ -25,13 +25,12 @@
 - Start testing: python test_depth_yun.py
 
 ## Results
-- Finally we have the `caffe.caffemodel`, extracted features `features.mat` in folder **`snapshot/`** and **`out_features/`** respectively.
 - The testing results of these methods based on multi-shot setting are as follows(%): 
    ```Shell
    ---------------------------------------------
-   |Method     | APCER(%) | BPCER(%) | ACER(%) |
+   |  Method   | APCER(%) | BPCER(%) | ACER(%) |
    |Aux(Depth) |   2.7    |   2.7    |   2.7   |
-   | Ours      |   3.5    |   1.4    |   2.4   |
+   |   Ours    |   3.5    |   1.4    |   2.4   |
    ---------------------------------------------
    Note that the metric of ACER is the final indicator, and the smaller value means better performance.
   ```
